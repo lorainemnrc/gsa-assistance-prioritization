@@ -1,5 +1,7 @@
 ![poster_gsa_assistance_prioritization](https://github.com/lorainemnrc/gsa-assistance-prioritization/assets/23328647/41128d6c-9167-4b03-8776-79183639c087)
 
+# Bridging the Gap: A Study on Access to Basic Necessities in the Philippines
+
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
 <p align="justify"> &emsp;
