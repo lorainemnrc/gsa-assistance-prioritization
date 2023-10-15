@@ -32,11 +32,14 @@ This project on Geospatial Analysis can be used by Government officials to help 
 
 <p align="justify"> &emsp;
 1.	<strong><em>Mapping</em></strong>: Mapping the areas with the highest concentration of people without access to necessities. This mapping will help the government understand the spatial distribution of poverty.
-  
+</p>
+<p align="justify"> &emsp;
 2.	<strong><em>Infrastructure Planning</em></strong>: Using geospatial analysis to identify the provinces with the highest potential for infrastructure development such as power grids and water sources.
-
+</p>
+<p align="justify"> &emsp;
 3.	<strong><em>Service Delivery</em></strong>: Using geospatial analysis to track the distribution of water pumps and toilets to ensure that they are being distributed equitably.
-   
+</p>
+<p align="justify"> &emsp;
 4.	<strong><em>Targeted Interventions</em></strong>: Using geospatial analysis to identify the most vulnerable populations within poor provinces. This will help the government prioritize areas for intervention.
 </p>
 
